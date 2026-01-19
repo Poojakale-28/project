@@ -5,7 +5,7 @@ label {
 		label "built-in-project"
 		customWorkspace "/data/project-myapp"
 		
-		}
+		}readfvscxef
 		}
 		
 	stages {
